@@ -15,6 +15,6 @@ utilizadas em nossa aplicação.
 
 ![image](https://user-images.githubusercontent.com/106537496/215907098-00eb3c74-87e1-496c-92ac-e3841b6ed296.png)
 
-
+   fonte: IDE Intellij praticando application-properties
 
 
